@@ -1,11 +1,11 @@
 # TableCheck Customer Reliability Take Home Project
-**Project: Simple Weather API and Monitoring Integration**
+## Project: Simple Weather API and Monitoring Integration
 
-*Overview:*
+### Overview:
 
 Create a simple Ruby on Rails application that exposes an API for retrieving weather data for a given city. The application should also include integration with OpenTelemetry for monitoring purposes. Additionally, write a brief documentation that explains how the API works and potential use cases for this API.
 
-*Requirements:*
+### Requirements:
 
 1. Design and implement a Ruby on Rails application with the following features:
    - An endpoint to retrieve weather data for a given city (e.g., temperature, humidity, wind speed)
@@ -22,7 +22,7 @@ Create a simple Ruby on Rails application that exposes an API for retrieving wea
 
 4. Demonstrate strong ability to learn, document, and articulate customer organization's needs by providing recommendations on how the API could be improved or extended to cater to a broader audience.
 
-*Evaluation Criteria:*
+### Evaluation Criteria:
 
 The candidate's take-home project will be evaluated based on the following criteria:
 
