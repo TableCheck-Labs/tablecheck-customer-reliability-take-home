@@ -1,4 +1,4 @@
-# tablecheck-customer-reliability-take-home
+# TableCheck Customer Reliability Take Home Project
 **Project: Simple Weather API and Monitoring Integration**
 
 *Overview:*
