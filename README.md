@@ -10,6 +10,9 @@ Create a simple Ruby on Rails application that exposes an API for retrieving wea
 1. Design and implement a Ruby on Rails application with the following features:
    - An endpoint to retrieve weather data for a given city (e.g., temperature, humidity, wind speed)
    - Utilize a public weather API, such as OpenWeatherMap, to fetch the weather data
+   - Ensure that your code follows the Single Responsibility Principle.
+
+**Please keep in mind, although this app itself is simple, write it as if it will grow in complexity in the future.**
 
 2. Integrate OpenTelemetry for monitoring-in-code:
    - Set up OpenTelemetry to collect metrics and traces from the application
