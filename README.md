@@ -23,6 +23,8 @@ Create a simple Ruby on Rails application that exposes an API for retrieving wea
    - API endpoint, request/response formats, and examples of usage
    - A simple guide on how to set up and run the application locally
 
+**Make code comments which clearly explain your design decisions.**
+
 4. Demonstrate strong ability to learn, document, and articulate customer organization's needs by providing recommendations on how the API could be improved or extended to cater to a broader audience.
 
 ### Evaluation Criteria:
